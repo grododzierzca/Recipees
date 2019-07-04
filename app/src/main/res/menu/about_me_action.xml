@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_mode_1"
+        android:title="Red"
+        android:icon="@drawable/ic_search_black_24dp" />
+    <item
+        android:icon="@drawable/clear_all_black_24dp"
+        android:title="Blue"
+        android:id="@+id/action_mode_2"/>
+</menu>
